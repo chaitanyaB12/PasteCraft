@@ -21,9 +21,13 @@ A minimalist web application to create, edit, copy, and manage your personal not
 📌 Coming soon – Will be deployed on Vercel
 
 ## 📸 Screenshot
+📝 Create Paste / Note Interface
+![Alt Text](https://github.com/chaitanyaB12/PasteCraft/blob/c26a8cfb078e153a9eb8163d406eae68524be482/ScreenShots/HomePage.png)
+Users can create or edit notes and code snippets with a title and content. Includes copy-to-clipboard and toast notification support for better UX.
 
-![Alt Text](image-url)
-![Alt Text](image-url)
+📚 View All Pastes / Notes
+![Alt Text](https://github.com/chaitanyaB12/PasteCraft/blob/c26a8cfb078e153a9eb8163d406eae68524be482/ScreenShots/AllPastes.png)
+Displays a list of all saved items with search, edit, delete, view, and copy functionality. Organized and responsive layout with action buttons.
 
 ---
 
@@ -59,7 +63,6 @@ src/
 
 ## 🧪 Local Setup Instructions
 
-```bash
 # 1. Clone the repository
 git clone
 cd notecraft-paste
