@@ -45,13 +45,13 @@ Displays a list of all saved items with search, edit, delete, view, and copy fun
 
 ## 📂 Folder Structure (src/)
 
-📂 src/
-├── 📁 components/
+```src/
+├── components/
 │   ├── Home.jsx
 │   └── Paste.jsx
-├── 📁 redux/
+├── redux/
 │   └── pasteSlice.js
-├── 📁 utils/
+├── utils/
 │   └── formatDate.js
 ├── App.jsx
 ├── index.css
