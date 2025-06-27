@@ -83,7 +83,7 @@ This project was built to demonstrate frontend skills using React and Tailwind C
 A great fit for quick documentation, code reuse, or simple task tracking.
 
 
-###🤝 Contributing
+🤝 Contributing
 Pull requests are welcome! If you find bugs or have feature ideas, feel free to open an issue.
 
 
