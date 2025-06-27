@@ -18,7 +18,7 @@ A minimalist web application to create, edit, copy, and manage your personal not
 ---
 
 🌐 Live Demo
-(Vercel): paste-craft.vercel.app
+(Vercel): [paste-craft.vercel.app](https://paste-craft-6ze9pwcrv-chaitanyas-projects-7e70116a.vercel.app)
 
 ## 📸 Screenshot
 📝 Create Paste / Note Interface
