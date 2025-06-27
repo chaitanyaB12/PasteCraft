@@ -1,4 +1,4 @@
-# React + Vite
+# React + Vite + Tailwind
 
 A minimalist web application to create, edit, copy, and manage your personal notes, code snippets, or quick tasks — all stored securely in your browser using `localStorage`.  
 
@@ -83,8 +83,10 @@ This project was built to demonstrate frontend skills using React and Tailwind C
 A great fit for quick documentation, code reuse, or simple task tracking.
 
 
-🤝 Contributing
+###🤝 Contributing
 Pull requests are welcome! If you find bugs or have feature ideas, feel free to open an issue.
 
 
-🙋‍♂️ Author Made with ❤️ by Chaitanya
+## 👨‍💻 Author
+
+### 💖 Made with love by **Chaitanya**
