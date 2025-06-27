@@ -74,7 +74,7 @@ npm install
 npm run dev
 
 # 4. Open in browser
-# Visit: http://localhost:5173
+# Visit: http://---
 
 ---
 📄 About the Project
